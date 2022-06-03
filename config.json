@@ -1,0 +1,14 @@
+{
+    "info": {
+        "name": "WSSniffer",
+        "authors": [{
+            "name": "ImTheSquid",
+            "discord_id": "262055523896131584",
+            "github_username": "ImTheSquid",
+            "twitter_username": "ImTheSquid11"
+        }],
+        "version": "0.0.1",
+        "description": "*sniffs you, inhaling your essence deeply* ohhh yeahhh give me them bits and bytes"
+    },
+    "main": "index.js"
+}
